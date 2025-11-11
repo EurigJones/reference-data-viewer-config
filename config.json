@@ -1,0 +1,25 @@
+{
+  "defaultVersion": "25.12",
+  "versions": [
+    {
+      "displayName": "26.01",
+      "version": "07.62"
+    },
+    {
+      "displayName": "25.12",
+      "version": "07.61"
+    },
+    {
+      "displayName": "25.11",
+      "version": "07.60"
+    },
+    {
+      "displayName": "25.10",
+      "version": "07.59"
+    },
+    {
+      "displayName": "25.09",
+      "version": "07.58"
+    }
+  ]
+}
